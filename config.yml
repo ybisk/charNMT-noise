@@ -1,0 +1,5 @@
+file: ted-data/de-en-txt/test.1.tok.de.txt
+lang: de                       # fr/de/cs/en
+ftype: txt                     # sgm/txt
+scrambling:   [real]           # swap, middle, random, key, real
+distribution: [1.0]            # probability of running this op
