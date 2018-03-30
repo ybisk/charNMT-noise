@@ -5,6 +5,11 @@ Scripts and noise data for Belinkov &amp; Bisk [Synthetic and Natural Noise Both
 ## MT Data
 The experiments reported in the paper are conducted on the TED talks corpus prepared for [IWSLT 2016](http://workshop2016.iwslt.org), which is available on the [WIT<sup>3</sup> website](https://wit3.fbk.eu/mt.php?release=2016-01). 
 
+## Pretrained Models
+Nematus: http://data.statmt.org/rsennrich/wmt16_systems/
+
+char2char: https://github.com/nyu-dl/dl4mt-c2c
+
 ## Sources of Natural Noise 
 French: 
   > Aurlien Max and Guillaume Wisniewski. _Mining Naturally-occurring Corrections and Paraphrases from Wikipedias 
